@@ -3,7 +3,7 @@
 </div>
  
  <h1 align="center">
-   <p> "What we know is a drop, what we don't is an ocean" </p>
+   <p> "What we know is a drop, what we don't is an ocean" - Isaac Newton </p>
   </h1>
  
 <br />
@@ -11,9 +11,9 @@
 <p align="center">
 </p>
 
-Most days you’ll find me moving between diagnostics, design, and code — troubleshooting ECM behavior in hybrid mining trucks in the morning, digging into control logic or performance data by lunch, and ending the day experimenting with new (to me) programming languages. And when the workweek slows down, I swap engines and electronics for open roads, hiking trails, and places I’ve never explored before.
+Most days you’ll find me moving between troubleshooting ECM behavior in engines and developing hybrid mining trucks in the morning, digging into control logic or performance data by lunch, and ending the day experimenting with new (to me obviously) languages. And when the workweek slows down, I swap engines and electronics for open roads, hiking trails, and places I’ve never explored before.
 
- - 💬 Connect? 👉🏻  <a href="mailto:feyzaboyun@gmail.com"><img src="https://raw.githubusercontent.com/feyzaboyun/feyzaboyun/master/gmail.png" alt="gmail logo" height="20"></a>&nbsp;&nbsp;
+💬 Connect? 👉🏻  <a href="mailto:feyzaboyun@gmail.com"><img src="https://raw.githubusercontent.com/feyzaboyun/feyzaboyun/master/gmail.png" alt="gmail logo" height="20"></a>&nbsp;&nbsp;
 <br />
 
 ### - Languages and Tools...
