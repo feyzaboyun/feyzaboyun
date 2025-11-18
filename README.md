@@ -53,9 +53,10 @@ Most days you’ll find me moving between troubleshooting ECM behavior in engine
 </p>
 
 ---
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=feyzaboyun&label=Profile%20Views&color=6&icon=5&pretty=true" />
-</p>
+<div align="center">
+      <img alt="Visitor Stats" 
+            src="https://widgetbite.com/stats/<github-username>"/>  
+</div>
 
 
 
