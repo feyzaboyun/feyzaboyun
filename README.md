@@ -55,7 +55,7 @@ Most days you’ll find me moving between troubleshooting ECM behavior in engine
 ---
 
 <p align="center">
-  Visitor count<br/>
-  <img src="https://komarev.com/ghpvc/?username=feyzaboyun&color=blue" />
+  <img src="https://img.shields.io/badge/Visitors-Count-blue?style=flat-square" />
 </p>
+
 
