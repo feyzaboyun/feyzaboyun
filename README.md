@@ -3,26 +3,15 @@
 </div>
  
  <h1 align="center">
-   <p> Engineer by day 🌅 Hobbyist by night 🌌 </p>
+   <p> "What we know is a drop, what we don't is an ocean" </p>
   </h1>
  
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGFydzk5aGc5czFmajY3d2djcWVubjczNGNtZ2hpbXFwY2ZrbXhqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1X7xL3g8fWpOFGqfxE/giphy-downsized-large.gif" />
 <p align="center">
-  <h3> I am 28 years old & I love... </h3>
 </p>
 
- - 🔩 Engineering 
-
- - 💻 Learning Programming Languages 
- 
- - 🔭 Space Science 
-
- - 💡 Quantum Physics & Computing 
- 
- - 🏞️ Exploring New Places 
- 
- - 🏕️ Hiking & Camping
+Most days you’ll find me moving between diagnostics, design, and code — troubleshooting ECM behavior in hybrid mining trucks in the morning, digging into control logic or performance data by lunch, and ending the day experimenting with new (to me) programming languages. And when the workweek slows down, I swap engines and electronics for open roads, hiking trails, and places I’ve never explored before.
 
  - 💬 Connect? 👉🏻  <a href="mailto:feyzaboyun@gmail.com"><img src="https://raw.githubusercontent.com/feyzaboyun/feyzaboyun/master/gmail.png" alt="gmail logo" height="20"></a>&nbsp;&nbsp;
 <br />
