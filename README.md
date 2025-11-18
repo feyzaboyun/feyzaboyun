@@ -17,8 +17,9 @@ Most days you’ll find me moving between troubleshooting ECM behavior in engine
 
 💬 Connect? 👉🏻  
 <a href="mailto:feyzaboyun@gmail.com">
-  <img src="https://raw.githubusercontent.com/feyzaboyun/feyzaboyun/master/gmail.png" alt="gmail logo" height="20">
+  <img src="https://img.icons8.com/color/48/000000/gmail-new.png" height="20px" alt="gmail logo">
 </a>
+
 
 ---
 
