@@ -61,5 +61,6 @@ Most days you’ll find me moving between troubleshooting ECM behavior in engine
 
 <p align="center">
   Visitor count<br/>
-  <img src="https://profile-counter.glitch.me/feyzaboyun/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=feyzaboyun&color=blue" />
 </p>
+
