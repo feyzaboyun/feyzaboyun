@@ -37,12 +37,12 @@ Most days you’ll find me moving between troubleshooting ECM behavior in engine
 
 ## **My Stats**
 
-### 🔍 **GitHub Activity Overview**
+###  **GitHub Activity Overview**
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=feyzaboyun&theme=github_dark" />
 </p>
 
-### 📊 **Contribution Summary**
+### **Contribution Summary**
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=feyzaboyun&theme=github_dark" />
 </p>
@@ -50,11 +50,6 @@ Most days you’ll find me moving between troubleshooting ECM behavior in engine
 ### 🔥 **Streak Stats**
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=feyzaboyun&theme=dark" />
-</p>
-
-### 🌈 **Activity Graph**
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=feyzaboyun&theme=react-dark&hide_border=true" />
 </p>
 
 ---
